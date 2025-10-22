@@ -32,27 +32,6 @@ Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no
 
 [Clique aqui](https://www.figma.com/file/rgHS7o5MyTAxk9vCRH5YhL/Landpage-%2B-Mobile---SpiderVerse?type=design&node-id=0%3A1&mode=design&t=5SFRyEJyIbhD90Sl-1) para ir ao protótipo do projeto no Figma.
 
-## 🗄️ Estrutura de pastas
-
-O projeto está estruturado da seguinte forma:
-
-- 📁 `public`
-  - 📁 `icons`
-  - 📁 `songs`
-  - 📁 `spiders`
-- 📁 `src`
-  - 📁 `app`
-    - 📁 `api`
-      - 📁 `heroes`
-    - 📁 `hero`
-      - 📁 `[id]`
-  - 📁 `components`
-    - 📁 `Carousel`
-    - 📁 `HeroDetails`
-    - 📁 `HeroesList`
-    - 📁 `HeroPicture`
-  - 📁 `fonts`
-  - 📁 `interfaces`
 
 ## 📄 Ponto de partida: template para começar do zero
 
@@ -95,17 +74,3 @@ Agora você está pronto para explorar o projeto em seu ambiente local!
 
 ## 📚 Tutorial do projeto
 [Live Criando um carrossel parallax do Aranhaverso.pdf](https://github.com/digitalinnovationone/spiderverse/files/12098974/Live.Criando.um.carrossel.parallax.do.Aranhaverso.67a818e32c2049d39d28ce4a185555c4.pdf)
-
-## 👩‍💻 Autora
-
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊
